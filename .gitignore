@@ -1,0 +1,9 @@
+
+.env
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+automation.log
+input/
+output/
